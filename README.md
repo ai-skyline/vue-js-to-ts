@@ -1,4 +1,4 @@
-# js-vue
+# ts-vue
 
 ## Project setup
 ```
